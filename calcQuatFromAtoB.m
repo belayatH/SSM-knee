@@ -1,6 +1,5 @@
 function q = calcQuatFromAtoB(a, b)
-%CALCQUATFROMATOB この関数の概要をここに記述
-%   詳細説明をここに記述
+%CALCQUATFROMATOB 
 
 cosTheta = dot(a,b);
 
