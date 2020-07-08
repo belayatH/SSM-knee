@@ -1,6 +1,6 @@
 function [ pcaResult ] = constSSM(imgs)
-%CONSTSSM この関数の概要をここに記述
-%   詳細説明をここに記述
+%CONSTSSM
+
 % http://jp.mathworks.com/help/stats/pca.html#bti6r20-1
 % coef  ....   Eigen vectors
 %              raw ... feature vector of each eigen vector
